@@ -18,8 +18,11 @@ El proyecto aborda el desafío de comprender y gestionar la calidad del aire en 
 | Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
 
 | Vicente Urquieta Jara | Ingenieria Civil Industrial | Rol| @VicenteUrquieta |
+
 | [Nombre] | [Carrera] | [Rol] | [@usuario] |
+
 | [Nombre] | [Carrera] | [Rol] | [@usuario] |
+
 | [Nombre] | [Carrera] | [Rol] | [@usuario] |
 
 ## Valores del equipo
@@ -75,7 +78,7 @@ Comprender y delimitar el problema relacionado con la calidad del aire en Lab881
 
 | Integrante | Compromiso SMART |
 
-| [Nombre] | Cumplir con las tareas asignadas dentro de los plazos definidos por el equipo y registrar los avances correspondientes en la bitácora del proyecto. |
+| Vicente Urquieta | Cumplir con las tareas asignadas dentro de los plazos definidos por el equipo y registrar los avances correspondientes en la bitácora del proyecto. |
 
 | [Nombre] |  |
 
@@ -125,13 +128,11 @@ Hasta el momento, la evidencia disponible corresponde principalmente a la inform
 
 | Fecha | Decisión | Evidencia o criterio utilizado |
 |---|---|---|
-| 31-08-2026 | Mantener la definición del problema como preliminar hasta realizar el levantamiento en terreno. | Actualmente solo se dispone de la información inicial del desafío y aún no se ha realizado observación directa del contexto. |
-| 31-08-2026 | Utilizar Design Thinking como metodología de desarrollo del proyecto. | Metodología establecida para el desarrollo del Proyecto Capstone Intermedio. |
+| 25-08-2026 | Iniciar el análisis preliminar del desafío entregado por la contraparte. | Recepción de la problemática del proyecto Capstone. |
+| 31-08-2026 | Mantener la definición del problema como preliminar hasta realizar el levantamiento en terreno. | Aún no se ha realizado observación directa ni entrevistas a usuarios. |
 
 ## Próximo hito
 
 Realizar el levantamiento inicial de información sobre Lab881 y sus usuarios mediante observación, investigación y contacto con la contraparte. El hito se considerará cumplido cuando el equipo cuente con evidencia suficiente para elaborar la matriz AEIOU, el mapa de empatía y ajustar la formulación preliminar del problema.
 
-## Uso y licencia
 
-Por definir con el equipo docente y la contraparte. No reutilizar ni publicar información reservada sin autorización.
