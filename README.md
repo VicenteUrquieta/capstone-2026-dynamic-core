@@ -16,8 +16,8 @@ El proyecto aborda el desafío de comprender y gestionar la calidad del aire en 
 ## Equipo
 
 | Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
-|---|---|---|---|
-  | [Vicente Urquieta Jara] | Ingenieria Civil Industrial | [Rol] | [@VicenteUrquieta] |
+
+| Vicente Urquieta Jara | Ingenieria Civil Industrial | Rol| @VicenteUrquieta |
 | [Nombre] | [Carrera] | [Rol] | [@usuario] |
 | [Nombre] | [Carrera] | [Rol] | [@usuario] |
 | [Nombre] | [Carrera] | [Rol] | [@usuario] |
@@ -74,11 +74,11 @@ Comprender y delimitar el problema relacionado con la calidad del aire en Lab881
 ## Compromisos individuales
 
 | Integrante | Compromiso SMART |
-|---|---|
+
 | [Nombre] | Cumplir con las tareas asignadas dentro de los plazos definidos por el equipo y registrar los avances correspondientes en la bitácora del proyecto. |
-| [Nombre] | Participar activamente en las reuniones del equipo y aportar al levantamiento y análisis de información durante la etapa de empatizar. |
-| [Nombre] | Investigar antecedentes y soluciones existentes relacionadas con el desafío y compartir los resultados con el equipo. |
-| [Nombre] | Mantener actualizada la documentación del proyecto y colaborar en la preparación de las entregas correspondientes. |
+| [Nombre] |  |
+| [Nombre] |  |
+| [Nombre] |  |
 
 ## Usuarios y contexto
 
@@ -87,7 +87,6 @@ A partir de la información inicial disponible, se consideran preliminarmente co
 - Operadores de la máquina de corte y grabado láser.
 - Personas que utilizan o permanecen en Lab881.
 - Personal encargado de la gestión del espacio.
-- Contraparte del proyecto.
 
 El problema ocurre en Lab881, específicamente en el contexto de utilización de la máquina de corte y grabado láser.
 
@@ -98,7 +97,7 @@ Hasta el momento, la evidencia disponible corresponde principalmente a la inform
 | Actividad | Responsable(s) | Fecha | Estado |
 |---|---|---|---|
 | Revisar y organizar la información inicial del desafío | Todo el equipo | 31-08-2026 | En desarrollo |
-| Investigar antecedentes sobre calidad del aire y corte láser | [Responsable] | [dd-mm-aaaa] | Pendiente |
+| Investigar antecedentes sobre calidad del aire y corte láser | Todo el equipo | [dd-mm-aaaa] | Pendiente |
 | Preparar preguntas para la contraparte y usuarios | Todo el equipo | [dd-mm-aaaa] | Pendiente |
 | Realizar visita y observación en Lab881 | Todo el equipo | [dd-mm-aaaa] | Pendiente |
 | Elaborar matriz AEIOU a partir de la evidencia | Todo el equipo | [dd-mm-aaaa] | Pendiente |
