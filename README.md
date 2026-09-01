@@ -19,7 +19,7 @@ El proyecto aborda el desafío de comprender y gestionar la calidad del aire en 
 
 | Vicente Urquieta Jara | Ingenieria Civil Industrial | Rol| @VicenteUrquieta |
 
-| [Nombre] | [Carrera] | [Rol] | [@usuario] |
+| Fernando Leiva | Ingenieria Civil Industrial | [Rol] | @Hayax4 |
 
 | [Nombre] | [Carrera] | [Rol] | [@usuario] |
 
