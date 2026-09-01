@@ -7,7 +7,7 @@
 **Contraparte:** Municipalidad de Providencia / Hub Providencia - Lab881  
 **Estado actual:** En desarrollo
 
-![Foto del equipo]()
+![Foto del equipo]() (Tomar el 01-09)
 
 ## Descripción
 
