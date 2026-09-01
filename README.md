@@ -21,7 +21,7 @@ El proyecto aborda el desafío de comprender y gestionar la calidad del aire en 
 
 | Fernando Leiva | Ingenieria Civil Industrial | Observación | @Hayax4 |
 
-| [Nombre] | [Carrera] | [Rol] | [@usuario] |
+| Nicolás Bravo | Ingeniería Civil Industrial | Rol Inicial | @Nicolas-Bravo1 |
 
 | [Nombre] | [Carrera] | [Rol] | [@usuario] |
 
@@ -82,7 +82,7 @@ Comprender y delimitar el problema relacionado con la calidad del aire en Lab881
 
 | Fernando Leiva | Complementar en las necesidades de las tareas del equipo para asegurar cumplir con los objetivos de manera efectiva y eficaz |
 
-| [Nombre] |  |
+| Nicolás Bravo | Investigar y recopilar antecedentes técnicos relevantes para el desafío dentro de los plazos acordados, documentando las fuentes y hallazgos en la bitácora del equipo. |
 
 | [Nombre] |  |
 
