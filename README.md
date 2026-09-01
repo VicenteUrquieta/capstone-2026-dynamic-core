@@ -23,7 +23,7 @@ El proyecto aborda el desafío de comprender y gestionar la calidad del aire en 
 
 | Nicolás Bravo | Ingeniería Civil Industrial | Rol Inicial | @Nicolas-Bravo1 |
 
-| Benjamin Farías | Ingenieria Civil Electronica | [Rol] | @Benjamin-Farias |
+| Benjamin Farías | Ingenieria Civil Electronica | Investigación, prototipo y diseño | @Benjamin-Farias |
 
 ## Valores del equipo
 
@@ -84,7 +84,7 @@ Comprender y delimitar el problema relacionado con la calidad del aire en Lab881
 
 | Nicolás Bravo | Investigar y recopilar antecedentes técnicos relevantes para el desafío dentro de los plazos acordados, documentando las fuentes y hallazgos en la bitácora del equipo. |
 
-| [Nombre] |  |
+| Benjamin Farías | Investigar, prototipar y diseñar el proyecto para una efectiva ejecución del proyecto, en el plazo acordado. |
 
 ## Usuarios y contexto
 
