@@ -80,7 +80,7 @@ Comprender y delimitar el problema relacionado con la calidad del aire en Lab881
 
 | Vicente Urquieta | Cumplir con las tareas asignadas dentro de los plazos definidos por el equipo y registrar los avances correspondientes en la bitácora del proyecto. |
 
-| [Nombre] |  |
+| Fernando Leiva | Complementar en las necesidades de las tareas del equipo para asegurar cumplir con los objetivos de manera efectiva y eficaz |
 
 | [Nombre] |  |
 
