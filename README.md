@@ -17,13 +17,13 @@ El proyecto aborda el desafío de comprender y gestionar la calidad del aire en 
 
 | Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
 
-| Vicente Urquieta Jara | Ingenieria Civil Industrial | Rol| @VicenteUrquieta |
+| Vicente Urquieta Jara | Ingenieria Civil Industrial | Coordinador de información y documentación | @VicenteUrquieta |
 
 | Fernando Leiva | Ingenieria Civil Industrial | Observación | @Hayax4 |
 
 | Nicolás Bravo | Ingeniería Civil Industrial | Rol Inicial | @Nicolas-Bravo1 |
 
-| [Nombre] | [Carrera] | [Rol] | [@usuario] |
+| Benjamin Farías | Ingenieria Civil Electronica | [Rol] | @Benjamin-Farias |
 
 ## Valores del equipo
 
