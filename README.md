@@ -103,9 +103,9 @@ Hasta el momento, la evidencia disponible corresponde principalmente a la inform
 | Actividad | Responsable(s) | Fecha | Estado |
 |---|---|---|---|
 | Revisar y organizar la información inicial del desafío | Todo el equipo | 31-08-2026 | En desarrollo |
-| Investigar antecedentes sobre calidad del aire y corte láser | Todo el equipo | 02-09-2026 | Pendiente |
+| Investigar antecedentes sobre calidad del aire y corte láser | Todo el equipo | 25-08-2026 | Pendiente |
 | Preparar preguntas para la contraparte y usuarios | Todo el equipo | 01-09-2026 | Pendiente |
-| Realizar visita y observación en Lab881 | Todo el equipo | [dd-mm-aaaa] | Pendiente |
+| Realizar visita y observación en Lab881 | Todo el equipo | 02-09-2026 | Pendiente |
 | Elaborar matriz AEIOU a partir de la evidencia | Todo el equipo | [dd-mm-aaaa] | Pendiente |
 | Elaborar mapa de empatía | Todo el equipo | [dd-mm-aaaa] | Pendiente |
 | Identificar necesidades, restricciones y supuestos | Todo el equipo | [dd-mm-aaaa] | Pendiente |
