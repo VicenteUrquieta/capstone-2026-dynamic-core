@@ -2,7 +2,7 @@
 
 ## Capstone Intermedio 2026
 
-**Equipo:** Dynamic Core  
+**Equipo:** Core Dynamics
 **Desafío:** Monitoreo y gestión de la calidad del aire en Lab881  
 **Contraparte:** Municipalidad de Providencia / Hub Providencia - Lab881  
 **Estado actual:** En desarrollo
