@@ -25,6 +25,8 @@ El proyecto aborda el desafío de comprender y gestionar la calidad del aire en 
 
 | Benjamin Farías | Ingenieria Civil Electronica | Investigación, prototipo y diseño | @Benjamin-Farias |
 
+| Victor Manquelipe | Ingeniería Civil Electronica | rol | @usuario |
+
 ## Valores del equipo
 
 - Responsabilidad
@@ -85,6 +87,8 @@ Comprender y delimitar el problema relacionado con la calidad del aire en Lab881
 | Nicolás Bravo | Investigar y recopilar antecedentes técnicos relevantes para el desafío dentro de los plazos acordados, documentando las fuentes y hallazgos en la bitácora del equipo. |
 
 | Benjamin Farías | Investigar, prototipar y diseñar el proyecto para una efectiva ejecución en el plazo acordado. |
+
+| Victor Manquelipe | smart |
 
 ## Usuarios y contexto
 
