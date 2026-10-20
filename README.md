@@ -2,141 +2,340 @@
 
 ## Capstone Intermedio 2026
 
-**Equipo:** Core Dynamics
+**Equipo:** Dynamic Core  
 **Desafío:** Monitoreo y gestión de la calidad del aire en Lab881  
 **Contraparte:** Municipalidad de Providencia / Hub Providencia - Lab881  
 **Estado actual:** En desarrollo
 
-![Foto del equipo]() (Tomar nuevamente por el nuevo miembro)
+![Foto del equipo](imagenes/foto-equipo.jpg)
+
+> **Nota:** Se debe actualizar la fotografía del equipo debido a la incorporación de un nuevo integrante.
+
+---
 
 ## Descripción
 
-El proyecto aborda el desafío de comprender y gestionar la calidad del aire en Lab881, particularmente en el contexto del uso de una máquina de corte y grabado láser. A partir de la información inicial entregada por la contraparte, se busca identificar las necesidades de los usuarios, las condiciones del entorno y los posibles factores asociados a la calidad del aire. En esta etapa aún no se ha realizado la visita a terreno, por lo que la definición del problema y de una eventual solución se considera preliminar y deberá validarse mediante observación, levantamiento de información y contacto con los usuarios.
+El proyecto aborda el desafío de comprender y gestionar la calidad del aire en Lab881, particularmente en el contexto de las actividades realizadas dentro del laboratorio y el uso de la máquina de corte y grabado láser.
+
+Durante el desarrollo del proyecto, el equipo ha recopilado información mediante investigación, actividades de observación y visitas al Hub de Providencia.
+
+A partir del levantamiento realizado en terreno, se identificaron antecedentes relacionados con los materiales utilizados, los sistemas de ventilación y extracción, los elementos de protección personal, las condiciones ambientales del espacio y las formas actuales de control de partículas.
+
+Uno de los antecedentes relevantes obtenidos es que actualmente no existe un sistema que permita medir directamente la toxicidad del aire dentro de Lab881.
+
+El proyecto continúa en desarrollo, avanzando desde la comprensión y definición del problema hacia el análisis de posibles soluciones y la estructuración de una propuesta conceptual.
+
+---
 
 ## Equipo
 
 | Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
+|---|---|---|---|
+| Vicente Urquieta Jara | Ingeniería Civil Industrial | Coordinación de información y documentación | @VicenteUrquieta |
+| Fernando Leiva | Ingeniería Civil Industrial | Observación | @Hayax4 |
+| Nicolás Bravo | Ingeniería Civil Industrial | Apoyo en investigación y desarrollo | @Nicolas-Bravo1 |
+| Benjamin Farías | Ingeniería Civil Electrónica | Investigación, prototipo y diseño | @Benjamin-Farias |
+| Victor Manquelipe | Ingeniería Civil Electrónica | Rol por definir | @usuario |
 
-| Vicente Urquieta Jara | Ingenieria Civil Industrial | Coordinador de información y documentación | @VicenteUrquieta |
-
-| Fernando Leiva | Ingenieria Civil Industrial | Observación | @Hayax4 |
-
-| Nicolás Bravo | Ingeniería Civil Industrial | Rol Inicial | @Nicolas-Bravo1 |
-
-| Benjamin Farías | Ingenieria Civil Electronica | Investigación, prototipo y diseño | @Benjamin-Farias |
-
-| Victor Manquelipe | Ingeniería Civil Electronica | rol | @usuario |
+---
 
 ## Valores del equipo
 
-- Responsabilidad
-- Comunicación
-- Colaboración
-- Respeto
-- Compromiso
+- Responsabilidad.
+- Comunicación.
+- Colaboración.
+- Respeto.
+- Compromiso.
+
+---
 
 ## Normas de funcionamiento
 
 1. Cumplir con las tareas asignadas dentro de los plazos establecidos.
 2. Mantener una comunicación activa entre todos los integrantes del equipo.
 3. Distribuir las responsabilidades de manera equitativa según las capacidades y disponibilidad de cada integrante.
-4. Los desacuerdos se resolverán mediante diálogo, argumentación y consenso; si no existe acuerdo, se tomará una decisión grupal considerando la alternativa más conveniente para el proyecto.
-5. Las decisiones importantes, avances y modificaciones del proyecto se registrarán en GitHub y en la bitácora del equipo.
+4. Los desacuerdos se resolverán mediante diálogo, argumentación y consenso.
+5. Si no existe acuerdo, se tomará una decisión grupal considerando la alternativa más conveniente para el proyecto.
+6. Las decisiones importantes, avances y modificaciones del proyecto se registrarán en GitHub y en la bitácora del equipo.
+7. Mantener actualizada la documentación y evidencias generadas durante el desarrollo del proyecto.
 
-## Desafío inicial
+---
 
-Nuestro desafío consiste en comprender el problema relacionado con la calidad del aire en Lab881 durante el uso de la máquina de corte y grabado láser, identificando las necesidades de los usuarios y las condiciones del espacio que puedan ser relevantes.
+## Desafío
 
-### Lo que sabemos hasta ahora
+El desafío consiste en estudiar las condiciones asociadas a la calidad del aire dentro de Lab881 y analizar cómo pueden ser monitoreadas y gestionadas considerando las actividades desarrolladas en el espacio.
 
-- El desafío está asociado a la calidad del aire en Lab881.
-- En el espacio se utiliza una máquina de corte y grabado láser.
-- Existe interés en mejorar el monitoreo y la gestión de las condiciones ambientales asociadas a su funcionamiento.
-- Será necesario considerar a las personas que operan la máquina y a quienes utilizan o permanecen en el espacio.
+El trabajo se ha enfocado principalmente en comprender el contexto, recopilar antecedentes y delimitar el problema antes de avanzar hacia una solución.
 
-### Lo que todavía no sabemos
+---
 
-- Cuáles son las condiciones reales de calidad del aire durante la operación de la máquina.
-- Cuáles son las principales necesidades y preocupaciones de los usuarios.
-- Qué variables será necesario medir.
-- Qué restricciones técnicas existen dentro de Lab881.
-- Qué tan efectivo es el sistema actual de ventilación o extracción.
-- Qué solución será la más adecuada para abordar el desafío.
+## Información recopilada en terreno
 
-### Supuestos que debemos comprobar
+Durante la visita realizada al Hub de Providencia el **02-09-2026**, el equipo realizó preguntas relacionadas con los materiales utilizados, ventilación, seguridad y condiciones ambientales del laboratorio.
 
-- Que la operación de la máquina láser genera cambios relevantes en las condiciones del aire del espacio.
-- Que los usuarios necesitan información más clara sobre la calidad del aire.
-- Que un sistema de monitoreo podría contribuir a una mejor gestión del espacio.
-- Que existen variables ambientales que pueden ser medidas de forma técnica y económicamente viable.
+### Materiales utilizados
 
-Estos supuestos deberán ser validados mediante el levantamiento de información y la visita a terreno.
+Se indicó que dentro del laboratorio se trabaja con materiales como:
 
-## Objetivo SMART del equipo
+- MDF.
+- Acrílico.
+- Cuero.
+- Telas sin revestimientos químicos.
+- Madera.
+- Algunos polímeros.
 
-Comprender y delimitar el problema relacionado con la calidad del aire en Lab881 mediante investigación, observación del contexto y levantamiento de información con usuarios y contraparte, con el fin de definir sus principales necesidades, restricciones y requerimientos durante las primeras etapas del proyecto Capstone 2026.
+También existen restricciones para determinados materiales debido a su comportamiento durante los procesos realizados en el laboratorio.
+
+### Ventilación y extracción
+
+- La máquina láser genera emisiones durante su funcionamiento.
+- Existe un sistema de extracción general.
+- Existe un purificador.
+- Según la información recopilada, los sistemas actuales presentan limitaciones.
+- Está considerada la instalación de un nuevo extractor hacia fines de año.
+
+### Elementos de protección personal
+
+Se utilizan elementos de protección personal como:
+
+- Mascarillas especiales.
+- Guantes de nitrilo.
+
+Existen además especificaciones para el uso de EPP dependiendo de las actividades desarrolladas.
+
+### Seguridad
+
+El espacio cuenta con:
+
+- Extintor.
+- Manual de uso de los espacios.
+- Elementos de protección personal.
+
+### Condiciones ambientales
+
+Se indicó que una temperatura cercana a **25 °C** es considerada adecuada para la zona.
+
+Además, existe equipamiento destinado a ayudar a regular o controlar las partículas presentes en el ambiente.
+
+### Monitoreo
+
+Uno de los antecedentes más relevantes identificados es que actualmente **no existe un sistema que mida directamente la toxicidad del aire** dentro del laboratorio.
+
+---
+
+## Lo que sabemos actualmente
+
+- El desafío está asociado al monitoreo y gestión de la calidad del aire en Lab881.
+- En el laboratorio se utiliza una máquina de corte y grabado láser.
+- Durante su funcionamiento se generan emisiones.
+- En Lab881 se utilizan materiales como MDF, acrílico, cuero, madera, telas y algunos polímeros.
+- Existe un sistema de extracción general.
+- Existe un purificador.
+- Los sistemas actuales presentan limitaciones según la información recopilada en terreno.
+- Se utilizan elementos de protección personal.
+- Existe equipamiento destinado al control de partículas.
+- El espacio cuenta con medidas y elementos de seguridad.
+- Actualmente no existe un sistema que mida directamente la toxicidad del aire.
+- Está considerada la instalación de un nuevo extractor.
+
+---
+
+## Información que todavía necesitamos profundizar
+
+- Qué contaminantes específicos se generan durante los distintos procesos.
+- Qué variables son las más relevantes para evaluar la calidad del aire.
+- Cuál es la efectividad real del sistema actual de extracción.
+- Cuál es la efectividad del sistema de purificación.
+- Qué niveles de concentración son relevantes para evaluar las condiciones del espacio.
+- Qué características tendrá el nuevo extractor.
+- Qué requerimientos técnicos deberá considerar una eventual propuesta.
+- Qué alternativas existentes pueden utilizarse como referencia para el desarrollo del proyecto.
+
+---
+
+## Supuestos que requieren validación
+
+- Que la máquina láser representa uno de los principales puntos de generación de emisiones dentro del laboratorio.
+- Que el sistema de extracción actual puede presentar limitaciones bajo determinadas condiciones de uso.
+- Que monitorear variables ambientales puede entregar información útil para la gestión del espacio.
+- Que es posible implementar un sistema de monitoreo utilizando tecnologías disponibles y compatibles con el contexto de Lab881.
+
+Estos elementos deberán seguir siendo contrastados con investigación, mediciones y evidencia.
+
+---
+
+## Definición del problema
+
+Durante la semana del **22-09-2026**, el equipo avanzó desde la recopilación de antecedentes hacia la definición y presentación del problema.
+
+La formulación fue desarrollada utilizando la información obtenida durante las semanas anteriores, especialmente:
+
+- Investigación inicial.
+- Visita al Hub de Providencia.
+- Información entregada por la contraparte.
+- Actividades de observación.
+- Antecedentes técnicos recopilados por el equipo.
+
+La definición del problema continúa siendo revisada a medida que se incorpora nueva información al proyecto.
+
+---
+
+## Objetivo del equipo
+
+Desarrollar una propuesta orientada al monitoreo y gestión de la calidad del aire en Lab881, fundamentada en evidencia obtenida mediante investigación, observación, levantamiento de información en terreno y análisis de soluciones existentes, considerando las necesidades del espacio, sus usuarios y las restricciones técnicas del proyecto.
+
+---
 
 ## Compromisos individuales
 
-| Integrante | Compromiso SMART |
+| Integrante | Compromiso |
+|---|---|
+| Vicente Urquieta | Cumplir con las tareas asignadas dentro de los plazos definidos y mantener actualizados los principales avances, documentos y evidencias del proyecto en GitHub. |
+| Fernando Leiva | Apoyar las distintas necesidades del equipo y participar en las actividades de observación, análisis y desarrollo necesarias para cumplir los objetivos del proyecto. |
+| Nicolás Bravo | Investigar y recopilar antecedentes técnicos relevantes para el desafío dentro de los plazos acordados, documentando las fuentes y hallazgos obtenidos. |
+| Benjamin Farías | Apoyar la investigación, diseño y desarrollo de prototipos necesarios para avanzar hacia una propuesta técnicamente viable. |
+| Victor Manquelipe | Participar activamente en las actividades del proyecto y cumplir las tareas asignadas de acuerdo con las necesidades del equipo. |
 
-| Vicente Urquieta | Cumplir con las tareas asignadas dentro de los plazos definidos por el equipo y registrar los avances correspondientes en la bitácora del proyecto. |
-
-| Fernando Leiva | Complementar en las necesidades de las tareas del equipo para asegurar cumplir con los objetivos de manera efectiva y eficaz |
-
-| Nicolás Bravo | Investigar y recopilar antecedentes técnicos relevantes para el desafío dentro de los plazos acordados, documentando las fuentes y hallazgos en la bitácora del equipo. |
-
-| Benjamin Farías | Investigar, prototipar y diseñar el proyecto para una efectiva ejecución en el plazo acordado. |
-
-| Victor Manquelipe | smart |
+---
 
 ## Usuarios y contexto
 
-A partir de la información inicial disponible, se consideran preliminarmente como usuarios y actores relacionados con el desafío:
+Los principales usuarios y actores relacionados con el desafío incluyen:
 
+- Personas que utilizan Lab881.
 - Operadores de la máquina de corte y grabado láser.
-- Personas que utilizan o permanecen en Lab881.
-- Personal encargado de la gestión del espacio.
+- Estudiantes.
+- Docentes.
+- Personal encargado de la gestión y funcionamiento del laboratorio.
+- Municipalidad de Providencia / Hub Providencia como contraparte.
 
-El problema ocurre en Lab881, específicamente en el contexto de utilización de la máquina de corte y grabado láser.
+El desafío se desarrolla dentro de **Lab881**, espacio asociado al Hub de Providencia en el que se realizan distintas actividades de fabricación y trabajo con materiales.
 
-Hasta el momento, la evidencia disponible corresponde principalmente a la información inicial proporcionada en el desafío. El equipo aún no ha realizado la visita a terreno, por lo que será necesario observar directamente el espacio, conversar con los usuarios y recopilar evidencia antes de establecer conclusiones definitivas.
+---
 
-## Plan inicial
+## Actividades realizadas
 
-| Actividad | Responsable(s) | Fecha | Estado |
-|---|---|---|---|
-| Revisar y organizar la información inicial del desafío | Todo el equipo | 31-08-2026 | En desarrollo |
-| Investigar antecedentes sobre calidad del aire y corte láser | Todo el equipo | 25-08-2026 | Pendiente |
-| Preparar preguntas para la contraparte y usuarios | Todo el equipo | 01-09-2026 | Pendiente |
-| Realizar visita y observación en Lab881 | Todo el equipo | 02-09-2026 | Pendiente |
-| Elaborar matriz AEIOU a partir de la evidencia | Todo el equipo | [dd-mm-aaaa] | Pendiente |
-| Elaborar mapa de empatía | Todo el equipo | [dd-mm-aaaa] | Pendiente |
-| Identificar necesidades, restricciones y supuestos | Todo el equipo | [dd-mm-aaaa] | Pendiente |
-| Ajustar la formulación preliminar del problema | Todo el equipo | [dd-mm-aaaa] | Pendiente |
+| Fecha | Actividad | Estado |
+|---|---|---|
+| 18-08-2026 | Conformación e identidad del equipo | Completado |
+| 25-08-2026 | Recepción del desafío | Completado |
+| 01-09-2026 | Comprensión inicial del desafío | Completado |
+| 02-09-2026 | Visita y levantamiento de información en el Hub de Providencia | Completado |
+| 08-09-2026 | Actividad práctica de observación | Completado |
+| Semana 09-09-2026 | Investigación y organización de antecedentes | Completado |
+| Semana 22-09-2026 | Definición y presentación del problema | Completado |
+| 29-09-2026 | Desarrollo del Lean Canvas | Completado |
+| Semana 06-10-2026 | Visita al Hub de Providencia junto a la sección | Completado |
+
+---
+
+## Lean Canvas
+
+Durante la semana del **29-09-2026**, el equipo desarrolló un Lean Canvas para organizar los principales elementos del proyecto y visualizar la relación entre el problema, los usuarios y las posibles líneas de desarrollo.
+
+![Lean Canvas](imagenes/leancanvas.jpeg)
+
+El ejercicio permitió estructurar de mejor manera los antecedentes recopilados y reconocer elementos que todavía debían ser profundizados.
+
+---
+
+## Visitas al Hub de Providencia
+
+### Primera visita - 02-09-2026
+
+La primera visita permitió recopilar información directamente relacionada con:
+
+- Materiales utilizados.
+- Ventilación y extracción.
+- Uso de la máquina láser.
+- EPP.
+- Seguridad.
+- Temperatura.
+- Control de partículas.
+- Monitoreo de la calidad del aire.
+
+### Visita de la sección - Semana del 06-10-2026
+
+Durante esta semana se realizó una nueva visita al Hub de Providencia junto con la sección del curso.
+
+La instancia permitió continuar relacionando el trabajo desarrollado durante las semanas anteriores con el contexto real en el que se desarrolla el desafío.
+
+Las evidencias fotográficas se encuentran almacenadas en:
+
+`imagenes/06-10/`
+
+---
+
+## Estado actual del proyecto
+
+Actualmente el proyecto ha avanzado desde una etapa inicial de exploración hacia una etapa de mayor definición.
+
+Hasta el momento se ha trabajado en:
+
+- Comprensión del desafío.
+- Levantamiento inicial de información.
+- Visitas a terreno.
+- Observación.
+- Investigación de antecedentes.
+- Identificación de información conocida y pendiente.
+- Definición y presentación del problema.
+- Desarrollo del Lean Canvas.
+- Análisis inicial de posibles líneas de desarrollo.
+
+El equipo continúa avanzando en la investigación y evaluación de alternativas antes de definir y desarrollar una propuesta final.
+
+---
 
 ## Índice de la bitácora
 
 - [S01 - Identidad del equipo y desafío](bitacora/S01.md)
-- [S02 - Levantamiento inicial](bitacora/S02.md)
-- [S03 - Empatizar](bitacora/S03.md)
+- [S02 - Recepción del desafío](bitacora/S02.md)
+- [S03 - Comprensión inicial](bitacora/S03.md)
+
+> El índice deberá continuar actualizándose a medida que se incorporen las siguientes sesiones a la carpeta `bitacora/`.
+
+---
 
 ## Evidencias principales
 
-- Información inicial entregada sobre el desafío.
-- Documentación e investigación preliminar del equipo.
-- Evidencia de terreno pendiente de recopilación.
-- Entrevistas o consultas a usuarios y contraparte pendientes de realización.
+Hasta el momento se cuenta con:
+
+- Ficha inicial del desafío.
+- Información recopilada durante la visita al Hub de Providencia.
+- Registros de preguntas realizadas en terreno.
+- Fotografías de actividades de observación.
+- Información sobre materiales y procesos utilizados en Lab881.
+- Antecedentes sobre ventilación, extracción y seguridad.
+- Presentación y definición del problema.
+- Lean Canvas.
+- Fotografías de la visita realizada durante la semana del 06-10-2026.
+- Documentación registrada en la bitácora y repositorio del equipo.
+
+---
 
 ## Decisiones relevantes
 
 | Fecha | Decisión | Evidencia o criterio utilizado |
 |---|---|---|
-| 25-08-2026 | Iniciar el análisis preliminar del desafío entregado por la contraparte. | Recepción de la problemática del proyecto Capstone. |
-| 31-08-2026 | Mantener la definición del problema como preliminar hasta realizar el levantamiento en terreno. | Aún no se ha realizado observación directa ni entrevistas a usuarios. |
+| 25-08-2026 | Comenzar por comprender el desafío antes de definir una solución. | Instrucciones iniciales del Proyecto Capstone. |
+| 02-09-2026 | Complementar la información inicial mediante levantamiento directo en terreno. | Visita al Hub de Providencia. |
+| Semana 09-09-2026 | Continuar recopilando antecedentes antes de cerrar la definición del problema. | Información obtenida mediante investigación y observación. |
+| Semana 22-09-2026 | Avanzar hacia la formulación y presentación del problema. | Antecedentes recopilados durante las etapas anteriores. |
+| 29-09-2026 | Organizar los elementos principales del proyecto mediante Lean Canvas. | Actividad desarrollada por el equipo. |
+| Semana 06-10-2026 | Continuar relacionando el desarrollo conceptual con el contexto real del Hub. | Visita presencial junto a la sección. |
 
-## Próximo hito
+---
 
-Realizar el levantamiento inicial de información sobre Lab881 y sus usuarios mediante observación, investigación y contacto con la contraparte. El hito se considerará cumplido cuando el equipo cuente con evidencia suficiente para elaborar la matriz AEIOU, el mapa de empatía y ajustar la formulación preliminar del problema.
+## Próximos pasos
 
+Los próximos avances del proyecto estarán orientados a:
 
+1. Continuar investigando soluciones existentes relacionadas con el desafío.
+2. Comparar tecnologías, métodos y referentes.
+3. Identificar los atributos más relevantes para una eventual solución.
+4. Definir requerimientos técnicos y funcionales.
+5. Evaluar la factibilidad de las alternativas propuestas.
+6. Seleccionar una propuesta conceptual.
+7. Avanzar posteriormente hacia el desarrollo y validación de un prototipo.
+
+---
