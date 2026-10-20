@@ -9,7 +9,6 @@
 
 ![Foto del equipo](imagenes/foto-equipo.jpg)
 
-> **Nota:** Se debe actualizar la fotografía del equipo debido a la incorporación de un nuevo integrante.
 
 ---
 
@@ -288,9 +287,17 @@ El equipo continúa avanzando en la investigación y evaluación de alternativas
 
 ## Índice de la bitácora
 
-- [S01 - Identidad del equipo y desafío](bitacora/S01.md)
-- [S02 - Recepción del desafío](bitacora/S02.md)
-- [S03 - Comprensión inicial](bitacora/S03.md)
+## Bitácora del proyecto
+
+El desarrollo del proyecto se encuentra documentado cronológicamente en las siguientes sesiones:
+
+- [S01 - 18-08-2026 - Identidad del equipo](bitacora/S01-18-08-2026.md)
+- [S02 - 25-08-2026 - Recepción del desafío](bitacora/S02-25-08-2026.md)
+- [S03 - 01-09-2026 - Comprensión inicial](bitacora/S03-01-09-2026.md)
+- [S04 - 08-09-2026 - Observación y levantamiento de antecedentes](bitacora/S04-08-09-2026.md)
+- [S05 - 22-09-2026 - Definición y presentación del problema](bitacora/S05-22-09-2026.md)
+- [S06 - 29-09-2026 - Desarrollo del Lean Canvas](bitacora/S06-29-09-2026.md)
+- [S07 - 06-10-2026 - Visita al Hub de Providencia](bitacora/S07-06-10-2026.md)
 
 > El índice deberá continuar actualizándose a medida que se incorporen las siguientes sesiones a la carpeta `bitacora/`.
 
